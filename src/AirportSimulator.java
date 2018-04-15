@@ -46,10 +46,12 @@ public class AirportSimulator implements ActionListener {
 		mainFrame.setVisible(true);
 		mainFrame.pack();
 	}
+	//Step 1 Run the program and click help to understand what you are making
+	
 	//Step 2 Create three buttons for three different airlines.
 	
 	public void whenStartIsPressed() {
-		//Step 1 Run the program and click help to understand what you are making
+		
 		//Step 3 Start by making a new JFrame, and JPanel.
 		
 		//Step 4 Add action listeners to each button
