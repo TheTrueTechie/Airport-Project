@@ -76,7 +76,7 @@ public class AirportSimulator implements ActionListener {
 		//Step 6 When an airline is clicked, use a OptionDialog to choose the tier of your seat. Business, First, Economy.
 		
 		
-		//Step 7 Make a checkout page to be able to buy all of your tickets		
+		//Step 7 Make a checkout page showing all of the tickets you selected		
 		
 
 	}
